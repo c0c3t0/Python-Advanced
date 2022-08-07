@@ -1,4 +1,6 @@
 num = int(input())
+num = int(input())
+num = int(input())
 
 longest_intersection = []
 
